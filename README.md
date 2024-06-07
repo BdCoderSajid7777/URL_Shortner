@@ -1,1 +1,19 @@
 # URL_Shortner
+```
+apt update && apt upgrade -y
+```
+```
+apt install git
+```
+```
+git clone https://github.com/BdCoderSajid7777/URL_Shortner
+```
+```
+cd URL_Shortner
+```
+```
+bash setup.sh
+```
+```
+clear
+```
