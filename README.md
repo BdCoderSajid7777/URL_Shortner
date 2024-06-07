@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-apt install git
+apt install git -y
 ```
 ```
 git clone https://github.com/BdCoderSajid7777/URL_Shortner
