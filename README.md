@@ -17,3 +17,6 @@ bash setup.sh
 ```
 clear
 ```
+```
+bash url\ SHORTER.sh
+```
